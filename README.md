@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Opeyemi19/Opeyemi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-### Hi there 👋
 
 I am Swastik Baranwal from Delhi, India who is a Noob, Open Source and V Contributor, DevOps enthusiastic, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
