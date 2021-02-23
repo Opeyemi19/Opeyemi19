@@ -6,7 +6,7 @@
 </p>
 
 
-I am Fatayo Sodik Aderemi from Abidjan, Ivory Coast who is a country in West Africa. I'm **Python-Django <img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/Django.jpg" width="50">, ReactJS developer <img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/Reactjs.png" width="30">, SEO <img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/seo.jpg" width="40"> and DevOps <img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/DevOps.jpg" width="50">**. I'm open to join all projects, loves any challenges in programming because this is **passion** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to me.
+I am Fatayo Sodik Aderemi from Abidjan, Ivory Coast who is a country in West Africa. I'm **Python-Django, ReactJS developer, SEO and DevOps**. I'm open to join all projects, loves any challenges in programming because this is **passion** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to me.
 
 
 - 😄 Pronouns: He/him
@@ -35,19 +35,19 @@ English  █████░░░░░    50 %
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | Windows Terminal | Terminator | many more...
-|---|---|---|---|---|---|---|
+| [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/seo.jpg" alt="SEO logo" width="40">]() | [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/Django.jpg" alt="django logo" width="40">](https://docs.djangoproject.com/) | [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/Reactjs.png" alt="reactjs logo" width="24">](https://reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | Windows Terminal | Terminator | many more...
+|---|---|---|---|---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| many more...
-|---|---|---|
+| [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/Nextjs.png" alt="nextjs logo" width="50">](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| many more...
+|---|---|---|---|
 
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Opeyemi19) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Opeyemi19)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/15263698/opeyemi19) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/SodikiFatayo)
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Opeyemi19) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Opeyemi19)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/15263698/opeyemi19) | [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/linkidin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/opeyemi-fatayo-700b04154) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/SodikiFatayo) | [<img src="https://github.com/Opeyemi19/Opeyemi19/blob/main/images/facebook.png" alt="facebook logo" width="34">](https://www.facebook.com/sodik.fatayo/)
+|---|---|---|---|---|---|
 
 ---
