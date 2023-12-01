@@ -6,7 +6,7 @@
 </p>
 
 
-I am Fatayo Sodik Aderemi from Abidjan, Ivory Coast who is a country in West Africa. I'm **Python-Django, ReactJS developer, SEO and DevOps**. I'm open to join all projects, loves any challenges in programming because this is **passion** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to me.
+My name is Fatayo Sodiki Aderemi, i live in Abidjan, Ivory Coast who is a country in West Africa. I like **Python, Linux, Bash, CI/CD, Automotion, DevOps & Cloud**. I'm open to join all projects also i like any challenges in programming because that is **passion** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to me.
 
 
 - 😄 Pronouns: He/him
@@ -14,10 +14,9 @@ I am Fatayo Sodik Aderemi from Abidjan, Ivory Coast who is a country in West Afr
 📊 **Languages Spoken**
 
 ```text
-French   █████████░    95 %
-English  █████░░░░░    50 %
+French   ██████████    100 %
+English  █████░░░░░    65 %
 ```
-
 
 ### Programming Languages 🌐
 
