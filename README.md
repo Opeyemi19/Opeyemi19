@@ -6,7 +6,7 @@
 </p>
 
 
-My name is Fatayo Sodiki Aderemi, i live in Abidjan, Ivory Coast who is a country in West Africa. I like **Python, Linux, Bash, CI/CD, Automotion, DevOps & Cloud**. I'm open to join all projects also i like any challenges in programming because that is **passion** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to me.
+My name is Fatayo Sodiki Aderemi, i live in Abidjan, Ivory Coast who is a country in West Africa. I like **Python, Linux, Bash, CI/CD, Automotion, DevOps & Cloud**. I'm open to all kinds of projects and I love the challenge of programming because it's a **passion** for me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 - 😄 Pronouns: He/him
